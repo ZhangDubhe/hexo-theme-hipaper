@@ -6,13 +6,12 @@
 menu:
   Home: /
   Archives: archives
-  Categories: categories
   About: about
 rss: /atom.xml
 
 
 # Set default keywords (Use a comma to separate)
-keywords: ""
+keywords: "Front End, Fotos, Astronomy, Dubheee"
 
 # Put your favicon.ico into `hexo-site/themes/hipaper/source/` directory.
 favicon: css/images/favicon.ico
