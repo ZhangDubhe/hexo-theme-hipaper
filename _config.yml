@@ -7,7 +7,6 @@ menu:
   Home: /
   Archives: archives
   Categories: categories
-  Tags: tags
   About: about
 rss: /atom.xml
 
@@ -34,7 +33,7 @@ about_big_image: [css/images/pose01.jpg, https://source.unsplash.com/collection/
 
 
 # Homepage thumbnail
-random_thumb: false
+random_thumb: true
 
 
 # Content
@@ -56,13 +55,9 @@ widgets:
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
-  Github: https://github.com/iTimeTraveler
-  Weibo: 
-  Twitter: 
-  Facebook: 
-  Google-plus: 
-  Instagram: 
-
+  Github: https://github.com/ZhangDubhe
+  Instagram: https://www.instagram.com/zht_dubhe/
+  Envelope: mailto:zht_dubhe@163.com?Subject=FromUmaContact
 
 # Search
 search:
@@ -74,7 +69,7 @@ search:
 # comment ShortName, you can choose only ONE to display.
 duoshuo_shortname: 
 disqus_shortname: 
-livere_shortname: MTAyMC8yOTQ4MS82MDQ5
+livere_shortname: MTAyMC8zNTE0My8xMTY3OA==
 uyan_uid: 
 wumii: 
 
@@ -117,4 +112,4 @@ facebook_sdk:
   webmaster:    #true
 
 # CNZZ count
-cnzz_siteid: 1260716016
+cnzz_siteid: 
