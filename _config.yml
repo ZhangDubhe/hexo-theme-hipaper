@@ -94,7 +94,7 @@ qihu_site_verification:
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-baidu_analytics:
+baidu_analytics: 1ead3150fe0e2401a9d121f365efb623
 tencent_analytics:
 busuanzi_analytics: true
 twitter:
