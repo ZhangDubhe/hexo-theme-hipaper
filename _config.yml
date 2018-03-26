@@ -88,12 +88,12 @@ show_count: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification:
+google_site_verification: jGP_xfR9GYCeqs8_nVBocFwuparYt4pPDtZs10fJZjI
 baidu_site_verification: Nuy1H0R1fD
 qihu_site_verification:
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-116459618-1
 gauges_analytics:
 baidu_analytics: e244682b41f1b3ce7b42513a3c986b70
 tencent_analytics:
