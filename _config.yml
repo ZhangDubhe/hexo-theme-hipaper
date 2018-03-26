@@ -89,13 +89,13 @@ show_count: true
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
 google_site_verification:
-baidu_site_verification:
+baidu_site_verification: Nuy1H0R1fD
 qihu_site_verification:
 
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-baidu_analytics: 1ead3150fe0e2401a9d121f365efb623
+baidu_analytics: e244682b41f1b3ce7b42513a3c986b70
 tencent_analytics:
 busuanzi_analytics: true
 twitter:
