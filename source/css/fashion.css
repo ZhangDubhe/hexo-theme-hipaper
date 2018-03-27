@@ -991,12 +991,13 @@ body.search .page .entry-footer {
 	}
 .widget li a:hover {
 	color: #1fa0ae;
-	}
+}
 .widget-tab-nav {
 	border-bottom: 2px solid #333;
 }
-.tagcloud
-    margin-bottom: 10px
+.tagcloud {
+	margin-bottom: 10px;
+}
 
 /* Widget Tabs */
 ul.widget-tab-nav {
@@ -1173,14 +1174,15 @@ ul.widget-tab-nav {
 	position: relative;
 }
 
-.blur {	
-    filter: url(blur.svg#blur); /* FireFox, Chrome, Opera */
-    
+.blur {	    
     -webkit-filter: blur(11px); /* Chrome, Opera */
        -moz-filter: blur(11px);
         -ms-filter: blur(11px);    
-            filter: blur(11px);
-    
+			filter: blur(11px);
+			
+	-webkit-filter: brightness(200%); /* Chrome, Safari, Opera */
+		filter: brightness(200%);
+
     filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=1, MakeShadow=false); /* IE6~IE9 */
 	}
 

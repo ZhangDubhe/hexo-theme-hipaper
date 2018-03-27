@@ -32,7 +32,7 @@
 
 
     <!-- headerblur min height -->
-    <% if (is_current("about", false) && theme.about_big_image){ %>
+    <% if ((is_current("about", false) || is_current("archives", false)) && theme.about_big_image){ %>
       var headerblur = document.getElementById("header-blur");
       headerblur.style.minHeight = window.getComputedStyle(document.getElementById("allheader"), null).height;
     <% } %>

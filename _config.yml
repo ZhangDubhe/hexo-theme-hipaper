@@ -29,7 +29,8 @@ avatar:
 
 
 # AboutPage background, support multiple images.
-about_big_image: [css/images/post03.jpg, https://source.unsplash.com/collection/954550/1920x1080, https://source.unsplash.com/collection/1915310/]
+# https://source.unsplash.com/collection/954550/1920x1080, https://source.unsplash.com/collection/954550/1920x1081
+about_big_image: [css/images/post03.jpg, https://source.unsplash.com/collection/1915310/1920x1080, https://source.unsplash.com/collection/1915145/1920x1080, https://source.unsplash.com/jn5X_BfQGlY/1920x1080, https://source.unsplash.com/-w_zNLeXBEw/1920x1080]
 
 
 # Homepage thumbnail
