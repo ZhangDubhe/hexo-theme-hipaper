@@ -91,13 +91,14 @@ body
   max-width: (column-width + gutter-width) * columns + gutter-width
   margin: 40px auto
   padding: 0 gutter-width
-
+  background: transparent
 .inner
   column(columns)
 
 .left, .alignleft
   float: left
 
+.right, .alignright
 .right, .alignright
   float: right
 
@@ -116,9 +117,12 @@ body
   left: 0
   transition: 0.2s ease-out
   z-index: 1
-  background: color-background
+  background: #fff0
   .mobile-nav-on &
     left: mobile-nav-width
+
+.article-entry
+  background: linear-gradient(#ffffffc4, #ffffff63)
 
 if sidebar and sidebar isnt bottom
   #main
