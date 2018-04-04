@@ -70,12 +70,18 @@ search:
 
 
 # comment ShortName, you can choose only ONE to display.
-duoshuo_shortname: 
-disqus_shortname: 
-livere_shortname: MTAyMC8zNTE0My8xMTY3OA==
+duoshuo_shortname:
+disqus_shortname:
+livere_shortname:
 uyan_uid: 
 wumii: 
-
+valine:
+  enable: true
+  appid: uOIjeRxObhHWgN9xCGKv92Rx-gzGzoHsz # your leancloud application appid
+  appkey: fbUT7JPnaSzmH8VO8huIa2Pl # your leancloud application appkey
+  notify: true # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  placeholder: 说点什么吗？
 
 # Code Highlight theme
 # Available value:
